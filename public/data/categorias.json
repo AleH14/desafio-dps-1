@@ -1,0 +1,66 @@
+{
+  "ingreso": [
+    { 
+      "value": "caja_fuerte", 
+      "label": "Caja fuerte",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3577/3577886.png"
+    },
+    { 
+      "value": "ahorro", 
+      "label": "Ahorro",
+      "icon": "https://www.shutterstock.com/image-vector/realistic-3d-piggy-bank-falling-600nw-2557461219.jpg"
+    },
+    { 
+      "value": "cartera", 
+      "label": "Cartera",
+      "icon": "https://cdn-icons-png.flaticon.com/512/606/606815.png"
+    },
+    { 
+      "value": "inversiones", 
+      "label": "Inversiones",
+      "icon": "https://cdn-icons-png.flaticon.com/512/6353/6353785.png"
+    },
+    { 
+      "value": "personalizado", 
+      "label": "Personalizado",
+      "icon": "https://cdn-icons-png.flaticon.com/512/487/487551.png"
+    }
+  ],
+  "egreso": [
+    { 
+      "value": "alimentacion", 
+      "label": "Alimentación",
+      "icon": "https://cdn-icons-png.flaticon.com/512/7757/7757762.png"
+    },
+    { 
+      "value": "transporte", 
+      "label": "Transporte",
+      "icon": "https://cdn-icons-png.flaticon.com/512/5780/5780388.png"
+    },
+    { 
+      "value": "servicios", 
+      "label": "Servicios Básicos",
+      "icon": "https://cdn-icons-png.flaticon.com/512/9727/9727444.png"
+    },
+    { 
+      "value": "entretenimiento", 
+      "label": "Entretenimiento",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Jwd6hfzgeBkjKaGfZoF3J8fdUxZaN1-KVw&s"
+    },
+    { 
+      "value": "salud", 
+      "label": "Salud",
+      "icon": "https://cdn-icons-png.flaticon.com/512/994/994873.png"
+    },
+    { 
+      "value": "educacion", 
+      "label": "Educación",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1962/1962494.png"
+    },
+    { 
+      "value": "personalizado", 
+      "label": "Personalizado",
+      "icon": "https://cdn-icons-png.flaticon.com/512/487/487551.png"
+    }
+  ]
+}
